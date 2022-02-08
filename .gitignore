@@ -7,6 +7,7 @@
 .DS_Store
 .terraform*
 
+.gcp/*
 # Crash log files
 crash.log
 crash.*.log
